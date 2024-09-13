@@ -2,7 +2,7 @@
 
 Este es un repositorio de la primer entrega de Proyecto Final de Curso CoderHouse Ciencia de Datos II.
 
-El mismo se trata sobre “Análisis de Datos y Machine Learning en el Mundo del Fútbol: Exploración del Dataset de Jugadores de FIFA 22 ”
+El mismo se trata sobre "Análisis y Predicción del Rendimiento Global de Jugadores de Fútbol: Un Estudio Basado en Habilidades Técnicas, Mentales y Físicas"
 
 
-Se adjunto el proyecto en colab y en power point.
+Se adjunta el proyecto en colab , el archivo player_22.csv y una presentación en power point.
